@@ -1,0 +1,29 @@
+body{
+    background-color: lightskyblue;
+}
+.home{
+    background-color: darkseagreen;
+    color: white;
+    padding: 0 300px;
+    float: left;
+    margin: 0 0 0 10px ;
+}
+.fun{
+    background-color: darkseagreen;
+    color: white;
+    padding: 0 300px ;
+    margin: 0 10px 0 0 ;
+}
+.style1{
+    list-style-type: none;
+}
+img{
+    float: left;
+    margin: 10px 10px;
+}
+.clear{
+    clear: both;
+}
+
+
+

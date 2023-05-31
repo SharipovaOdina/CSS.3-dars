@@ -1,0 +1,83 @@
+body{
+ background-color: whitesmoke;
+}
+.text-block{
+ width: 1200px;
+ height: 150px;
+ margin: 50px auto;
+}
+.text-block-item1{
+ border: 5px solid;
+ text-align: center;
+ float: left;
+ width: 15%;
+ margin: 0 20px;
+ padding: 16px 24px;
+ box-sizing: border-box;
+}
+.text-block-item2{
+ border: 5px dashed;
+ text-align: center;
+ float: left;
+ width: 15%;
+ margin: 0 20px;
+ padding: 16px 24px;
+ box-sizing: border-box;
+}
+.text-block-item3{
+ border: 5px dotted;
+ text-align: center;
+ float: left;
+ width: 15%;
+ margin: 0 20px;
+ padding: 16px 24px;
+ box-sizing: border-box;
+}
+.text-block-item4 {
+ border: 5px double;
+ text-align: center;
+ float: left;
+ width: 15%;
+ margin: 0 20px;
+ padding: 16px 24px;
+ box-sizing: border-box;
+}
+.text-block-item5{
+ border: 5px inset;
+ text-align: center;
+ float: left;
+ width: 15%;
+ margin: 0 20px;
+ padding: 16px 24px;
+ box-sizing: border-box;
+}
+.text-block-item6{
+ border: 5px outset;
+ text-align: center;
+ float: left;
+ width: 15%;
+ margin: 0 20px;
+ padding: 16px 24px;
+ box-sizing: border-box;
+}
+.text-block-item7{
+ border: 5px groove;
+ text-align: center;
+ float: left;
+ width: 15%;
+ margin: 0 20px;
+ padding: 16px 24px;
+ box-sizing: border-box;
+}
+.text-block-item8{
+ border: 5px ridge;
+ text-align: center;
+ float: left;
+ width: 15%;
+ margin: 0 20px;
+ padding: 16px 24px;
+ box-sizing: border-box;
+}
+.clear{
+ clear:both;
+}

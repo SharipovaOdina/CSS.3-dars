@@ -1,0 +1,25 @@
+body{
+    background-color: whitesmoke;
+}
+.text-block{
+    width: 900px;
+
+    margin: 70px auto;
+
+}
+.text-block-item{
+    width: 12%;
+    height: 100px;
+    border: 1px solid;
+    text-align: center;
+    padding: 10px 15px;
+    box-sizing: border-box;
+    float: left;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: yellowgreen;
+}
+
+.clear{
+    clear: both;
+}

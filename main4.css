@@ -1,0 +1,50 @@
+body{
+    background-color: white;
+}
+.text-block{
+    width: 900px;
+
+    margin: 70px auto;
+    background-color: white;
+}
+.text-block-item1{
+    color: darkred;
+    width: 12%;
+    border: 1px solid black;
+    text-align: center;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left;
+    margin: 0 20px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+}
+.text-block-item2{
+    color: darkred;
+    width: 12%;
+    border: 1px solid black;
+    text-align: center;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left;
+    margin: 0 20px;
+    border-radius: 10px;
+    background-color: pink;
+}
+.text-block-item3{
+    color: darkred;
+    width: 12%;
+    border: 1px solid black;
+    text-align: center;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left;
+    margin: 0 20px;
+    border-radius: 10px;
+    background-color: palegreen;
+}
+.clear{
+    margin: 0 100px 0 220px;
+    clear: both;
+    color: seagreen;
+}
